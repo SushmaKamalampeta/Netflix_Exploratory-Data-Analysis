@@ -1,6 +1,6 @@
 # Netflix_Exploratory-Data-Analysis
-Netflix Data Exploration and Visualization
-Netflix Logo
+##Netflix https://www.google.com/imgres?q=netflix%20wikipedia&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fea%2FNetflix_Logomark.png&imgrefurl=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FNetflix&docid=ER-nEE_jzv82EM&tbnid=oGarVLZWFROpdM&vet=12ahUKEwicvcC21rSLAxVrR2wGHVqEG5oQM3oECBoQAA..i&w=1800&h=756&hcb=2&ved=2ahUKEwicvcC21rSLAxVrR2wGHVqEG5oQM3oECBoQAA
+
 
 About
 Netflix, Inc. is an American streaming service and production company, offering a vast library of films and TV series, including Netflix Originals. As of March 31, 2023, it has 232.5 million paid memberships in over 190 countries. Founded by Reed Hastings and Marc Randolph in 1997, Netflix started as a DVD rental business before shifting to streaming in 2007, transforming home entertainment.
