@@ -1,5 +1,5 @@
 # Netflix_Exploratory-Data-Analysis
-##Netflix https://www.google.com/imgres?q=netflix%20wikipedia&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fea%2FNetflix_Logomark.png&imgrefurl=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FNetflix&docid=ER-nEE_jzv82EM&tbnid=oGarVLZWFROpdM&vet=12ahUKEwicvcC21rSLAxVrR2wGHVqEG5oQM3oECBoQAA..i&w=1800&h=756&hcb=2&ved=2ahUKEwicvcC21rSLAxVrR2wGHVqEG5oQM3oECBoQAA
+##Netflix https://www.google.com/imgres?q=netflix%20wikipedia&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fea%2FNetflix_Logomark.png&imgrefurl=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FNetflix&docid=ER-nEE_jzv82EM&tbnid=oGarVLZWFROpdM&vet=12ahUKEwicvcC21rSLAxVrR2wGHVqEG5oQM3oECBoQAA..i&w=1800&h=756&hcb=2&ved=2ahUKEwicvcC21rSLAxVrR2wGHVqEG5oQM3oECBoQAA ##
 
 
 About
